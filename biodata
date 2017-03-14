@@ -1,0 +1,9 @@
+<?php
+$myData = '{   
+	"nim": 16.01.63.0018,    
+	"nama": "Andiar Agung Syahputra",    
+	"alamat": "Jl. Adisumarmo No 40 Ngemplak Boyolali",    
+	"no_hp": 085642182667,
+	"matkul":["Jaringan","Database","Web Service"]
+}';
+?>

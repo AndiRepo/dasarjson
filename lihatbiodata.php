@@ -1,7 +1,7 @@
 <?php
 $json_data=file_get_contents("biodata.json");
 $obj = json_decode($json_data);
-echo "Nik : "; echo $obj->nim;
+echo "Nim : "; echo $obj->nim;
 echo "<br>";
 echo "Nama : "; echo $obj->nama;
 echo "<br>";
